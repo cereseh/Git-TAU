@@ -7,7 +7,14 @@ describe('testing OrangeHRM site', () => {
     cy.get('[name="firstName"]').type('Cristian-Andrei');
   })
 
+<<<<<<< HEAD
   //THIS IS THE MASTER BRANCH
   
 
+=======
+  it('test new branch', () => {
+    //THIS IS BRANCH-3
+    //THIS IS BRANCH-2
+  })
+>>>>>>> branch-3
 })
