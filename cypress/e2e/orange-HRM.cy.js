@@ -4,5 +4,6 @@ describe('testing OrangeHRM site', () => {
     cy.get('[name="username"]').type('Admin');
     cy.get('[name="password"]').type('admin123'+'{enter}');
     cy.get('.orangehrm-header-container > button.oxd-button').click();
+    cy.get('[name="firstName"]').type('Cristian-Andrei');
   })
 })
