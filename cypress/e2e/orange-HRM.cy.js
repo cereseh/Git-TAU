@@ -8,11 +8,6 @@ describe('testing OrangeHRM site', () => {
   })
 
   it('test new branch', () => {
-    //test
+    //THIS IS BRANCH-3
   })
-
-  it('test new branch', () => {
-    //test pentru branch 3
-  })
-
 })
