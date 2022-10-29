@@ -8,7 +8,7 @@ describe('testing OrangeHRM site', () => {
   })
 
   //THIS IS THE MASTER BRANCH
-
+  //CARE E TREABA CU REBASE
   it('test new branch', () => {
     //THIS IS BRANCH-3
     //THIS IS BRANCH-2
