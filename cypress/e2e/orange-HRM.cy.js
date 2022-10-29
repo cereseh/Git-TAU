@@ -6,4 +6,8 @@ describe('testing OrangeHRM site', () => {
     cy.get('.orangehrm-header-container > button.oxd-button').click();
     cy.get('[name="firstName"]').type('Cristian-Andrei');
   })
+
+  //THIS IS THE MASTER BRANCH
+  
+
 })
