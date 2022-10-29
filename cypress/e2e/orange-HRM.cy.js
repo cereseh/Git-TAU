@@ -9,13 +9,4 @@ describe('testing OrangeHRM site', () => {
 
   //THIS IS THE MASTER BRANCH
   //CARE E TREABA CU REBASE
-  it('test new branch', () => {
-    //THIS IS BRANCH-3
-    //THIS IS BRANCH-2
-<<<<<<<<< Temporary merge branch 1
-    //CREATE NEW PULL REQUEST
-=========
-    //SA VEDEM CUM MANIPULAM COMMIT HISTORY
->>>>>>>>> Temporary merge branch 2
-  })
 })
