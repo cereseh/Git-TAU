@@ -12,7 +12,10 @@ describe('testing OrangeHRM site', () => {
   it('test new branch', () => {
     //THIS IS BRANCH-3
     //THIS IS BRANCH-2
-    //SA VEDEM CUM MANIPULAM COMMIT HISTORY ACUM FACEM MODIFICARE SI COMMIT SI SPERAM SA NU APARA ALT NUME
+<<<<<<<<< Temporary merge branch 1
     //CREATE NEW PULL REQUEST
+=========
+    //SA VEDEM CUM MANIPULAM COMMIT HISTORY
+>>>>>>>>> Temporary merge branch 2
   })
 })
