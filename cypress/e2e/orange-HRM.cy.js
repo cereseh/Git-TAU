@@ -9,4 +9,7 @@ describe('testing OrangeHRM site', () => {
 
   //THIS IS THE MASTER BRANCH
   //CARE E TREABA CU REBASE
+  //ADAUG PRIMUL COMMIT
+  //ADAUG AL DOILEA COMMIT
+  // ADAUG AL TREILEA COMMIT
 })
